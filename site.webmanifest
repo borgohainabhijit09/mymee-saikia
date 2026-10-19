@@ -1,0 +1,17 @@
+{
+  "name": "Mymee Saikia - Medical Travel & Patient Support",
+  "short_name": "Mymee Saikia",
+  "description": "Personal assistance for patients and families from Assam travelling outside the state for medical treatment.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#faf7f0",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "assets/images/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

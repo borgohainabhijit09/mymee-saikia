@@ -1,0 +1,6 @@
+# robots.txt for Mymee Saikia - Medical Travel & Patient Support
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://borgohainabhijit09.github.io/mymee-saikia/sitemap.xml
